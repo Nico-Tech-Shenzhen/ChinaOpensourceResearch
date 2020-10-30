@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Welcome to 中国オープンソース研究 / ChinaOpensourceResearch
 
-You can use the [editor on GitHub](https://github.com/takasumasakazu/ChinaOpensourceResearch/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### これは何のプロジェクトか #中国オープンソース
 
-### Markdown
+中国のオープンソースムーブメントについて調査し、結果を共有する非営利のコミュニティです。 現在のコミュニケーションは、 twitterのハッシュタグ #中国オープンソース や、Facebookのニコ技深圳コミュニティ内、中国オープンソーストピックで行われています。 [https://www.facebook.com/groups/ntshenzhen](https://www.facebook.com/groups/ntshenzhen) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## なんでコミュニティでやろうとしてるのか
 
-# Header 1
-## Header 2
-### Header 3
+中国のオープンソースは、2019-2020年頃から大きく盛り上がろうとしている
 
-- Bulleted
-- List
+ - FSFの中国版と言える Open Atom Foundationが立ち上げてライセンス整備（中国政府の経産省にあたる工信部が監督している）、オープンソースの作法に則ってるかの監督（おそらく2020年から）
+ - 2019年からオープンソース産業白書を発行、COScon(China Open Source CONference 開催）
+ - 2020年からオープンソースエコシステム白書を発行
+ - アリババ、テンセント、ファーウェイ各社が組み込みOSをオープンソース化し、中国オープンソース運動に深くコミット
 
-1. Numbered
-2. List
+これは、アメリカ発のオープンソース運動の単なるローカライズではなく、中国が中国社会に役立つ形でオープンソース運動を消化しはじめた証である。特に組み込みやハードウェア絡みでは、西欧にない動きが中国から出てきてもおかしくない。
 
-**Bold** and _Italic_ and `Code` text
+こういう動きを読み解くには、意見やスキルは違うが、共通する興味関心を持つ人達の集合知が必要だと考える。
 
-[Link](url) and ![Image](src)
-```
+## こういう人たちと一緒にやりたい。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/takasumasakazu/ChinaOpensourceResearch/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ - 自由、寛容、合理的でありたいと思っている。
+ - 技術に興味があって、偏見が少ない。（人間は機械なんかないほうが幸せだ、と他人に押し付けない）
+ - オープンソースに関する興味があって、偏見が少ない。（何でもボランティアとかパクリとか言わない）
+ - 中国に関する興味があって、偏見が少ない。（中国人の頭の中身も精神もぜんぶ政府が決めてるとか言わない）
