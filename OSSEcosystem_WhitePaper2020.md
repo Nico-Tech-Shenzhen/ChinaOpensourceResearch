@@ -24,11 +24,14 @@ http://www.caict.ac.cn/kxyj/qwfb/bps/202010/t20201016_360023.htm
 ### 一、开源生态概述　オープンソースの概念
 
 ##### （一）开源概念逐渐明晰
+
 ストールマンとGNUの話。フリーソフト、オープンソースの区別を説明したこの図は最高。
+
 ![image](https://user-images.githubusercontent.com/1667148/97659920-8ce1ab80-1ab3-11eb-8982-d80483e356f6.png)
 
  
 ######  （二）开源生态以开源项目为中心构建
+
 オープンソースのエコシステムをなす4大プレーヤーとして、
 1. オープンソースソフト/ハードを作る開発者
 1. 利用者
@@ -46,33 +49,41 @@ GitHubの年次レポートをもとに、世界的なオープンソース開�
 中国国内でも全技術領域に渡ってオープンソースの利用が見られる。世界的なファウンデーションにも、30ほどの中国発プロジェクトがプロジェクトされている。
 
 ![image](https://user-images.githubusercontent.com/1667148/97660540-3aa18a00-1ab5-11eb-8d86-d0e48400170d.png)
+
 ↑中国発のオープンソースプロジェクト
 
 #### （二）开源占据各领域主要市场份额，我国开源应用逐年攀升
 世界でも中国でも、オープンソースソフトウェアによる独占・商用ソフトの置き換えが様々な分野で進んでいる。特にデータベース、ビッグデータ関連ではオープンソースの発展がめざましい。
 
 ![image](https://user-images.githubusercontent.com/1667148/97660691-ad126a00-1ab5-11eb-80d6-d2c048eb3809.png)
+
 ↑中国でも多くの会社が使っている。
 
 ![image](https://user-images.githubusercontent.com/1667148/97660729-c6b3b180-1ab5-11eb-91a3-70084995eff4.png)
+
 最も多い理由はライセンス代（成本）の節約だが、学習コストや自由度、人材育成なども大きい効果がある
 
 ![image](https://user-images.githubusercontent.com/1667148/97660784-eea31500-1ab5-11eb-8060-5997615b44d4.png)
+
 ↑データベース、ビッグデータ関連が大きい
 
 ![image](https://user-images.githubusercontent.com/1667148/97660927-493c7100-1ab6-11eb-83fa-e60de905f53a.png)
+
 大企業、大部署も積極的に利用している
 　(この理由面白い。日本だと逆になりそう）
  
  ![image](https://user-images.githubusercontent.com/1667148/97660973-6b35f380-1ab6-11eb-852d-a030b61be5f5.png)
  ![image](https://user-images.githubusercontent.com/1667148/97661009-843ea480-1ab6-11eb-85c1-c50181ef1e07.png)
+ 
  コンテナ、マイクロサービスの利用率も年々上がっている。
   
 ![image](https://user-images.githubusercontent.com/1667148/97661044-a1737300-1ab6-11eb-87cf-9746eb93a4be.png)
+
 テストツール（自動Deploy）についても利用率は上がっている。Jenkinsが人気。
 
 
 #### （三）开源企业数量保持稳定增长，我国企业呈现主动开源趋势
+
 GitHubやLinuxファウンデーションの企業会員企業利用が増えている。
 国内ではアリババ、バイドゥがたくさん利用している。
 
@@ -80,19 +91,23 @@ GitHubやLinuxファウンデーションの企業会員企業利用が増えて
 
 
 ![image](https://user-images.githubusercontent.com/1667148/97661193-0929be00-1ab7-11eb-8d03-65d1a8969dc3.png)
+
 企業をオープンソースに向かわせるエンジン
 
 ![image](https://user-images.githubusercontent.com/1667148/97661236-2bbbd700-1ab7-11eb-95c0-944dc2db8ecf.png)
+
 ほとんどの会社は、そんなにたくさんはオープンソースの項目（ここでの項目はリポジトリかな？）を持っていない。
 
 ![image](https://user-images.githubusercontent.com/1667148/97661296-560d9480-1ab7-11eb-9675-7b35717f5224.png)
+
 海外プラットフォームのGitHub, GitLubがそれぞれ人気。国内クローンサービスのGitee, Codlingも迫っている。
 
 ![image](https://user-images.githubusercontent.com/1667148/97661373-8d7c4100-1ab7-11eb-90eb-970f1d829937.png)
 
-60%の企業が、オープンソースのソフトウェアを使ってクローズドなサービスを提供することは問題ないと考えている。
+オープンソースのサービスを提供している企業の60%の企業が、それはそれとしてプロプラエタリなソフトを使うことは問題ないと考えている。（プロプラエタリなソフトも提供している、かな？）
 
 ![image](https://user-images.githubusercontent.com/1667148/97661446-b43a7780-1ab7-11eb-8994-a3d1ab20f861.png)
+
 カスタマイズしてオープンソースソフトウェアを使っているのはこんな分野が多い。
 
 #### （四）开源基金会成为开源运营重要角色
@@ -100,29 +115,34 @@ Linux財団,Apache財団などの会員数、アメリカでの税務的にな�
 
 
 #### （五）各行业开源生态已经形成，我国行业积极拥抱开源
+
 シノプシスのOpen Source security and Risk Analysis Reportが参照されている
 https://segmentfault.com/a/1190000022684674
 https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2020-ossra-report.pdf
 
 ![image](https://user-images.githubusercontent.com/1667148/97662185-a980e200-1ab9-11eb-8a76-017ed6cf6afa.png)
+
 中国で使ってる組織の区分はこのような感じ
 
 #### （六）开源风险问题凸显，成为开源应用屏障
+
 オープンソースのリスク、ひいては使用上の問題
 - セキュリティホール
 - GPLを使い間違えて訴訟
 
 ![image](https://user-images.githubusercontent.com/1667148/97662385-3deb4480-1aba-11eb-81ef-0feaf88384bc.png)
+
 オープンソースを使わない企業の、使わない理由
-
-
 
 #### （七）全球开源治理理念兴起，我国初步形成开源治理模式
 オープンソースの管理、どう管理すべきか。
+
 ![image](https://user-images.githubusercontent.com/1667148/97662489-96224680-1aba-11eb-9835-536db3694d21.png)
+
 現状はちゃんと管理されてなくて、せいぜいブラックリストやホワイトリストを作ってるだけというところが多い。
 
 ![image](https://user-images.githubusercontent.com/1667148/97662549-c10c9a80-1aba-11eb-8d11-28f2e41501f2.png)
+
 オープンソースソフトウェアが増えて、早く進化する中で、セキュリティー対策含めた管理が大事になってきている
 
 
@@ -136,6 +156,7 @@ https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2020-ossra-repo
  
 
 ### 三、开源成为企业商业布局的重要手段
+
 オープンソースのコントリビュータや運営者をどうやってビジネスと融合させて発展していくか
 
 #### （一）全球开源商业模式多样化发展
@@ -166,7 +187,8 @@ https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2020-ossra-repo
  
  ![image](https://user-images.githubusercontent.com/1667148/97665175-1e561b00-1abe-11eb-960a-4a57eab8733c.png)
  ![image](https://user-images.githubusercontent.com/1667148/97665220-3e85da00-1abe-11eb-86b5-bbf1d72c5291.png)
- 中国発オープンソースプロジェクトの国内・Global人気
+
+中国発オープンソースプロジェクトの国内・Global人気
  
  また、Huaweiの組み込み用 EulerOS, HarmonyOS, DB GaussDB OLTP、AI計算のMindSpore、
  テンセントのIoTリアルタイムOS TencentOS tinyなどなど、今後は続々大型のオープンソースプロジェクトがリリースされてくる。
@@ -182,9 +204,11 @@ https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2020-ossra-repo
 ### 四、全球开源基金会运营模式成熟，我国率先探索联盟运营机制
 
 #### （一）良好的开源社区是形成开源代码的前提条件
+
 bazaar方式（Linux）と伽藍方式（Apache OODT)の説明
 
 #### （二）开源基金会运营通过知识产权托管培育开源社区
+
 Linux財団、Apache財団、OpenStack財団などの委員会運営、ガバナンスについて。
 またそれらファウンデーションがどういう仕事をしているか。
 技術（主にドキュメンテーション）の指導など
@@ -192,6 +216,7 @@ Linux財団、Apache財団、OpenStack財団などの委員会運営、ガバナ
 スポンサーシップの仕組み、費用など
 
 #### （三）我国逐步形成稳定的开源运营机制
+
 中国でもオープンソースの促進を担う財団が必要だ。
 アリババ、バイドゥ、ファーウェイ、テンセント、浪潮(Inspur)、360、招商銀行などがスポンサーに。
  
@@ -199,30 +224,36 @@ Linux財団、Apache財団、OpenStack財団などの委員会運営、ガバナ
 ### 五、传统行业逐步拥抱开源生态，我国行业用户关注开源使用
 
 #### （一）工业互联网布局开源看重产业数字化新机遇
+
 工業IoT局はオープンソースを使ってデジタル化を促進すべき
 
 #### （二）电信行业由用户侧及运营商推动开源，探索产品创新
+
 通信キャリアはもっと大々的にオープンソースを使うべきだ。
 
 ![image](https://user-images.githubusercontent.com/1667148/97665838-c0c2ce00-1abf-11eb-9083-6ec186a8d169.png)
 
 #### （三）政府采购行业发展开源看重公开透明
+
 政府はもっと大大的にオープンソースを使用し、公開性、透明性を高め、アピールすべきだ。
 アメリカではOSSでないと調達しない、などの推進が行われている。
 
 #### （四）金融机构开源看重产业创新力和市场布局
+
 オープンソースやブロックチェーンを活用できるはずだ。
 金融は中国で積極的にOSSを利用している分野でもある。
 
 ### 六、开源风险问题复杂，开源治理体系正在构建
 
 #### （一）知识产权合规及安全漏洞风险相对普遍
+
 OSSによる知的財産の扱い。GPLについて
 
 また、有名なセキュリティーホール事例
 
 
 #### （二）开源法律和知识产权环境推动开源良性发展
+
 オープンソースと法律,知的財産
 
 オープンソースライセンス（開源許可証）
@@ -234,24 +265,29 @@ MIT,BSD(Permissive, 開放型）
 FSFのライセンス整備における役割など
 
 #### （三）开源治理工具加速企业开源治理体系构建
+
 BlackDuck, X-RAYなどのツール管理ツールについて新時代
 
 
 #### （四）开源治理模式逐步落地
+
 どうやってオープンソースのソフトをいい感じで管理し活用するか。セキュリティーホール対策やバージョン管理など
  ![image](https://user-images.githubusercontent.com/1667148/97668037-7b54cf80-1ac4-11eb-8284-513cc54d8e63.png)
 
 ### 七、开源生态未来发展趋势与建议
 
 #### （一）开源生态未来发展趋势
+
 オープンソースはパーソナルなものから企業を力づけるものになりつつある。
 企業としてオープンソースを促進する仕組みをつくっていかなければならない。
 
 #### （二）我国开源生态发展建议
+
 企業内でもゆっくりと普及hは続くだろうが、さらにスピードを上げるための組織が必要だ。国内の法整備もいる。
 
 ### 付録
 #### 付録1.オープンソースのリスク
+
 BlackDuckなどの管理ソフトをいれて避けようとしている
 ほかにも、ちゃんとライセンスどおりに使ってない、GPLが入っていてソース公開を迫られたなどがある
 ライセンスについての章が１つ、セキュリティホールについての章が１つ
