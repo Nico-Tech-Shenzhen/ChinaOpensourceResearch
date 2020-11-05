@@ -3,6 +3,7 @@
 ### 中国オープンソースエコシステム白書2020 (开源生态白皮书)とは
 政府系シンクタンクの [中国信息通信研究院](http://www.caict.ac.cn/)が2020年から配布しはじめた白書。 2020年10月発行
 http://www.caict.ac.cn/kxyj/qwfb/bps/202010/t20201016_360023.htm
+
 ↑ここでダウンロード可能。全78ページ。
 
 ![image](https://user-images.githubusercontent.com/1667148/97660274-62442280-1ab4-11eb-9053-7d76e4f9d5fd.png)
@@ -182,7 +183,9 @@ https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2020-ossra-repo
 #### （三）我国开源企业已初步构建形成有影响力的开源项目
 
  中国からGitHubへのコントリビュートは117万、世界の11.8%, Linuxにおいては世界で3番めにコントリビュータが多い。
+ 
  アリババが2172リポジトリ、テンセントが150、ファーウェイが161、それぞれ伸びてはいる。
+ 
  Dubbo, RocetkMQ,CarbonDataなどはApache財団のプロジェクトに入っている。
  
  ![image](https://user-images.githubusercontent.com/1667148/97665175-1e561b00-1abe-11eb-960a-4a57eab8733c.png)
@@ -194,6 +197,7 @@ https://www.synopsys.com/content/dam/synopsys/sig-assets/reports/2020-ossra-repo
  テンセントのIoTリアルタイムOS TencentOS tinyなどなど、今後は続々大型のオープンソースプロジェクトがリリースされてくる。
  
  投資についても状況が整いつつある。
+ 
  テンセントがコードをシェアするプラットフォームCodingを運営している、
  アリババは9000万ユーロでData Artisansを買収した
  
@@ -218,6 +222,7 @@ Linux財団、Apache財団、OpenStack財団などの委員会運営、ガバナ
 #### （三）我国逐步形成稳定的开源运营机制
 
 中国でもオープンソースの促進を担う財団が必要だ。
+
 アリババ、バイドゥ、ファーウェイ、テンセント、浪潮(Inspur)、360、招商銀行などがスポンサーに。
  
 
@@ -236,6 +241,7 @@ Linux財団、Apache財団、OpenStack財団などの委員会運営、ガバナ
 #### （三）政府采购行业发展开源看重公开透明
 
 政府はもっと大大的にオープンソースを使用し、公開性、透明性を高め、アピールすべきだ。
+
 アメリカではOSSでないと調達しない、などの推進が行われている。
 
 #### （四）金融机构开源看重产业创新力和市场布局
@@ -257,9 +263,11 @@ OSSによる知的財産の扱い。GPLについて
 オープンソースと法律,知的財産
 
 オープンソースライセンス（開源許可証）
-GPL3.0(Strong Copyleft, 強汚染型）
-GPL2.0(Copyleft, 汚染型）
-LGPL2.0(Weak Copyleft 弱汚染型)
+
+GPL3.0(Strong Copyleft, 強伝染型）
+
+GPL2.0(Copyleft, 伝染型）
+LGPL2.0(Weak Copyleft 弱伝染型)
 MIT,BSD(Permissive, 開放型）
 
 FSFのライセンス整備における役割など
@@ -272,6 +280,7 @@ BlackDuck, X-RAYなどのツール管理ツールについて新時代
 #### （四）开源治理模式逐步落地
 
 どうやってオープンソースのソフトをいい感じで管理し活用するか。セキュリティーホール対策やバージョン管理など
+
  ![image](https://user-images.githubusercontent.com/1667148/97668037-7b54cf80-1ac4-11eb-8284-513cc54d8e63.png)
 
 ### 七、开源生态未来发展趋势与建议
