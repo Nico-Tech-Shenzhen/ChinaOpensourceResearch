@@ -362,12 +362,11 @@ Rubyフレームワークの使用に関しては、Railsは引き続き1位で�
 
 PHP言語のフレームワークの使用に関して、ThinkPHPは包括的で成熟したフレームワークであり、参加者の30％以上がフレームワークを使用しています。
 
+![image](https://user-images.githubusercontent.com/1667148/99807163-0b44e100-2b7a-11eb-9797-4ed9a861436b.png)
 
 #### 6.11 Go フレームワーク
 
 Go言語フレームワークは百花繚乱な傾向を示しており、比較的多いBeegoにはユーザーの4分の1近くがいます。 Beegoはコミュニティでよく宣伝されており、より多くの機能を備えています。
-
-![image](https://user-images.githubusercontent.com/1667148/99807163-0b44e100-2b7a-11eb-9797-4ed9a861436b.png)
 
 #### 6.12  Node.jsフレームワーク
 
