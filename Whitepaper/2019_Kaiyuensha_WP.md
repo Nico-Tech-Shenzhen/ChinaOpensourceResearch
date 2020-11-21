@@ -6,7 +6,8 @@
 白書内のデータ
 [https://github.com/kaiyuanshe/2019-China-Open-Source-Report]
 
-(全体としてGoogle翻訳で意味が取れましたが、いくつかの修正をしています。）
+(全体として
+ogle翻訳で意味が取れましたが、いくつかの修正をしています。）
 
 Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）
 
@@ -368,9 +369,14 @@ PHP言語のフレームワークの使用に関して、ThinkPHPは包括的で
 
 Go言語フレームワークは百花繚乱な傾向を示しており、比較的多いBeegoにはユーザーの4分の1近くがいます。 Beegoはコミュニティでよく宣伝されており、より多くの機能を備えています。
 
+![image](https://user-images.githubusercontent.com/1667148/99866544-02412780-2bed-11eb-83fb-323653abd080.png)
+
 #### 6.12  Node.jsフレームワーク
 
 Node.jsフレームワークでは、Expressが優勢であり、ほぼ50％を占めています。
+
+
+![image](https://user-images.githubusercontent.com/1667148/99866561-19801500-2bed-11eb-9c90-6467ecebb828.png)
 
 
 #### 6.13  Pythonフレームワーク
