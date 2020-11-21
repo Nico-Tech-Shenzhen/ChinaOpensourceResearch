@@ -6,8 +6,7 @@
 白書内のデータ
 [https://github.com/kaiyuanshe/2019-China-Open-Source-Report]
 
-(全体として
-ogle翻訳で意味が取れましたが、いくつかの修正をしています。）
+(全体としてGoogle翻訳で意味が取れましたが、いくつかの修正をしています。）
 
 Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）
 
