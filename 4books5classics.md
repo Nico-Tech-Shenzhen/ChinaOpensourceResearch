@@ -78,6 +78,8 @@ The Art of UNIX Programming[日本語版](https://amzn.to/38BP5qK): Linux/UNIX�
 
 このリストの書籍は、エリック・レイモンドによって書かれたもので、中国語翻訳へのリンクはすべて、エリック・レイモンド五部シリーズのLinuxToyのダウンロードを指しています。 また、最近では、興味のある方のために「伽藍とバザール」の中国語訳も出版されています。
 
+博文地址：https://tonghuix
 
+via ： http://code.csdn.net/news/2819730 
 
 
