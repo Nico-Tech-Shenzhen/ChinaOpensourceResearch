@@ -51,7 +51,7 @@ FOSS関連の書籍、論文や、オープンソースの開発者/メンテナ
 
 《周易》：The Magic Cauldron (Eric Raymond)，[魔法のおなべ](https://cruel.org/freeware/magicpot.html) 中译本：《[魔法大熔炉](http://linuxtoy.org/archives/eric-raymond-five.html)》
 
-《春秋》：A Brief History of Hackerdom (Eric Raymond)，[ハッカー界小史]（https://cruel.org/freeware/hackerdom.html）中译本：《[Hacker文化简史](http://linuxtoy.org/archives/eric-raymond-five.html)》
+《春秋》：A Brief History of Hackerdom (Eric Raymond)，[ハッカー界小史](https://cruel.org/freeware/hackerdom.html）　中译本：《[Hacker文化简史](http://linuxtoy.org/archives/eric-raymond-five.html)》
 
 儒教の経典では、五経は実は六経のはずで、そのうち「楽経」は秦の焚書坑儒の時に滅ぼされて何も残らなかったので、後世には五経と言われるようになっています。 ここでは、初期の標準的な五教の順序が使用されています 《诗经》、《尚书》、《礼记》、《周易》そして《春秋》。ここでの順番は、単なる参考書として、上記の四書のように厳密なものではありません。
 
