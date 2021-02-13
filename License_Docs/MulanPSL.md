@@ -6,8 +6,8 @@ License License: All Rights Reserved
 
 License Contact: [zhmh at pku.edu.cn](zhmh@pku.edu.cn)
 
-
 SPDX short identifier: MulanPSL-2.0
+
 訳註：このLicenseは「英語と中国語の両方で記述されていて、同一の効力を持つこと」が重点の１つのようです。訳文は基本的に英語から、判断に迷ったところは中国語を参照しながら訳しました
 
 Copyright (c) [年] [著作権者名] [ソフトウェア名]は、Mulan PSL v2の下でライセンスされています。あなたは、Mulan PSL v2の条件に従って本ソフトウェアを使用することができます。http://license.coscl.org.cn/MulanPSL2 本ソフトウェアは「現状のまま」で提供されており、明示または黙示を問わず、非侵害性、商品性、特定の目的への適合性を含むがこれに限定されない、いかなる種類の保証もありません。詳細については、Mulan PSL v2を参照してください。
