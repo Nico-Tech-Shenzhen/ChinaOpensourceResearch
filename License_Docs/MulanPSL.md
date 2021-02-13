@@ -1,7 +1,11 @@
 * Mulan Permissive Software License v2 (MulanPSL - 2.0)
+
 License Copyright: 2020, [China Open Source Cloud League](http://www.coscl.org.cn/).
+
 License License: All Rights Reserved
+
 License Contact: [zhmh at pku.edu.cn](zhmh@pku.edu.cn)
+
 
 SPDX short identifier: MulanPSL-2.0
 訳註：このLicenseは「英語と中国語の両方で記述されていて、同一の効力を持つこと」が重点の１つのようです。訳文は基本的に英語から、判断に迷ったところは中国語を参照しながら訳しました
