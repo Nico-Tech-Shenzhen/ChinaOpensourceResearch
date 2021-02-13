@@ -1,4 +1,4 @@
-* Mulan Permissive Software License v2 (MulanPSL - 2.0)
+# Mulan Permissive Software License v2 (MulanPSL - 2.0)
 
 License Copyright: 2020, [China Open Source Cloud League](http://www.coscl.org.cn/).
 
