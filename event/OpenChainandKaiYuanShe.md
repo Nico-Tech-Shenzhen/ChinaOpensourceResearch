@@ -1,7 +1,7 @@
 # 身も蓋もない日中オープンソースの話 -アジアから世界にオープンソースを届ける-
 
 ## イベント概要
-日次：4月の頭ぐらい 仕事で聞く人も多そうなので、平日20:00-JPTとかがいいのでは？
+日次：4月17日午後2時スタート
 開催方法:Zoomウェビナー (最大500人)
 主催:Open Chain Japan Workking Group + 開源社 (China Open Source Alliance) + ニコ技深圳コミュニティ(Nico-Tech Shenzhen)
 
