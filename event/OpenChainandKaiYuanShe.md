@@ -3,7 +3,7 @@
 ## イベント概要
 日次：4月の頭ぐらい 仕事で聞く人も多そうなので、平日20:00-JPTとかがいいのでは？
 開催方法:Zoomウェビナー (最大500人)
-主催:ニコ技深圳コミュニティ + 開源社 (China Open Source Alliance)
+主催:Open Chain Japan Workking Group + 開源社 (China Open Source Alliance) + ニコ技深圳コミュニティ(Nico-Tech Shenzhen)
 
 ## イベント趣旨
 オープンソースの価値をわかりやすく世の中に示した「伽藍とバザール」が1999年。
