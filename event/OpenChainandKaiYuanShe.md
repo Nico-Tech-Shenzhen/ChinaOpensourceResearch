@@ -8,7 +8,7 @@
 ## イベント趣旨
 オープンソースの価値をわかりやすく世の中に示した「伽藍とバザール」が1999年。
 
-MicroSoft Lives Linuxが2015年。
+MicroSoft Loves Linuxが2014年。
 
 オープンソース方式の開発は、MicrosoftのVSCode,IBMのEclipse,GoogleのTensorFlowなどを見る通り、エンジニア向けのソフトウェアの開発手法ではますます普及しています。
 
