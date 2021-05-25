@@ -13,3 +13,5 @@ https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/Whitepap
 ## 作業状況の確認や追加のtodoをおもいついたらここに
 
 https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/projects/2
+
+Twitterで @tks 宛か、 #中国オープンソース を作って投げるのでもOK
