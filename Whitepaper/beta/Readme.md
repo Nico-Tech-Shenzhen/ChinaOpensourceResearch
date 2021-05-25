@@ -1,6 +1,6 @@
 ## この作業中サイトのURL
 
-
+https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/edit/main/Whitepaper/beta/
 
 ##  作業中のGoogle Docs ファイル (DeepLで雑に日本語にしたもの）
 
