@@ -4,7 +4,7 @@ https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/edit/main/Whitepap
 
 ##  作業中のGoogle Docs ファイル (DeepLで雑に日本語にしたもの）
 
-https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/Whitepaper/beta
+https://docs.google.com/document/d/1BFPt0mgmDffZ9aifACyG_nxjgqNczgZlcg1BF7J3sCI/edit
 
 1.どの章を見る/見たをGoogle Docsの最初で報告する
 2.原文のPDFと比較する。DeepLはまるごと1文抜ける事があって怖いので、そこを見つけるのが最優先。
