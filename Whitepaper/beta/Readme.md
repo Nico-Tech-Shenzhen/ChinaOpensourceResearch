@@ -7,8 +7,20 @@ https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/edit/main/Whitepap
 https://docs.google.com/document/d/1BFPt0mgmDffZ9aifACyG_nxjgqNczgZlcg1BF7J3sCI/edit
 
 1.どの章を見る/見たをGoogle Docsの最初で報告する
-2.原文のPDFと比較する。DeepLはまるごと1文抜ける事があって怖いので、そこを見つけるのが最優先。
-3.気になるところを編集履歴を残しながら直していく
+
+2.原文のPDFと比較する。
+
+  -  DeepLはまるごと1文抜ける事があって怖いので、そこを見つけるのが最優先。
+  -  英語のままにすべきソフトウェアなどの固有名詞を中国語版から無理やり再度英語→日本語訳してるところがあるので、それも注意
+  -  逆に、中国の組織名をムリヤリ日本語や英語にしている（例：開源社をOpen Source Societyとか）ところがある　注意
+
+3.気になるところを編集履歴（右上の「提案」）を残しながら直していく
+
+Google Docs冒頭の翻訳者向けファイルにもう少し詳細を書きました。
+
+多分「気になった言葉リスト」あったほうがいい。。
+ここに書いていきましょう
+https://docs.google.com/spreadsheets/d/11hnm1ORdUP6BtvaUJo2Ow70VQQ8dU6v1vRaPdzyM_oY/edit#gid=0
 
 
 
