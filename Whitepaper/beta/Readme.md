@@ -2,7 +2,7 @@
 
 https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/edit/main/Whitepaper/beta/
 
-##  作業中のGoogle Docs ファイル (DeepLで雑に日本語にしたもの）
+##  作業中のGoogle Docs ファイル (DeepLで雑に日本語にしたものを手分けして翻訳しよう）
 
 https://docs.google.com/document/d/1BFPt0mgmDffZ9aifACyG_nxjgqNczgZlcg1BF7J3sCI/edit
 
