@@ -20,7 +20,7 @@ Google Docs冒頭の翻訳者向けファイルにもう少し詳細を書きま
 
 多分「気になった言葉リスト」あったほうがいい。。
 ここに書いていきましょう
-https://docs.google.com/spreadsheets/d/11hnm1ORdUP6BtvaUJo2Ow70VQQ8dU6v1vRaPdzyM_oY/edit#gid=0
+[中国オープンソース固有名詞や翻訳用語集](https://docs.google.com/spreadsheets/d/11hnm1ORdUP6BtvaUJo2Ow70VQQ8dU6v1vRaPdzyM_oY/edit#gid=0)
 
 
 
