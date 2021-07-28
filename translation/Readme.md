@@ -6,6 +6,8 @@
 
 * [中国开源年度报告2020 中国オープンソース年度報告 (2021年01月)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2020_CNOSSReport)
 
+* [中国オープンソースエコシステム白書2020 (2020年10月)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2020_OSSEcosystem.md)
+
 * [中国开源年度报告2019 中国オープンソース年度報告(2020年01月)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2019_Kaiyuenshe_WP.md)
 
 
