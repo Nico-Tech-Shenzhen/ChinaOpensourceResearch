@@ -1,4 +1,4 @@
-# 中国开源年度报告
+# 中国开源年度报告2019 中国オープンソース年度報告2019
 
 原文
 [https://kaiyuanshe.cn/2019-China-Open-Source-Report/]
