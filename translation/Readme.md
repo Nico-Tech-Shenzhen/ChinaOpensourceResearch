@@ -2,7 +2,7 @@
 
 ## 白書
 
-* [2021年04月　中国オープンソース発展ブルーブック 2021 中国开源发展蓝皮书　(2021年07月28日完成)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/Readme.md)
+* [中国オープンソース発展ブルーブック 2021 中国开源发展蓝皮书（2021年04月）](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/Readme.md)(2021年07月28日完成)
 
 * [中国开源年度报告2020 中国オープンソース年度報告 (2021年01月)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2020_CNOSSReport)
 
