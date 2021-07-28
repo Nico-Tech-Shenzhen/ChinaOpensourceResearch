@@ -16,8 +16,6 @@
 
 * [中国政府教育省/情報通信省発行　「ソフトウェア開発教育カレッジ設立ガイドライン」　教育部办公厅 工业和信息化部办公厅关于印发《特色化示范性软件学院建设指南（试行）》的通知　2020年6月05日](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/20200605_Software_Education_College_Guideline.md)
 
-## 開源社関係
-
 
 ## 用語集
 
