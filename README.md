@@ -21,6 +21,7 @@ https://www.facebook.com/groups/ntshenzhen
 - 今はまだ単なるファイル置き場みたいな感じだけど、そのうち複数のプロジェクトが立って進行する感じになるといい
 - [中国オープンソース固有名詞や翻訳用語集](https://docs.google.com/spreadsheets/d/11hnm1ORdUP6BtvaUJo2Ow70VQQ8dU6v1vRaPdzyM_oY/edit#gid=0) を整備中
 - [2021-中国开源发展蓝皮书の翻訳プロジェクト](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_CNOSSbluebook) 2021年7月完成
+- [翻訳したドキュメントの一覧](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation)
 - Projectをたてる。「2021-中国开源发展蓝皮书 の翻訳」とか。プロジェクトは誰がどう立ててもいい
 
 
