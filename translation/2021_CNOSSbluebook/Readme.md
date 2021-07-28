@@ -4,7 +4,7 @@
 
 https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/edit/main/translation/2021_CNOSSbluebook/Readme.md
 
-[完成版PDF](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/2021_%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E5%8F%91%E5%B1%95%E8%93%9D%E7%9A%AE%E4%B9%A6.pdf）
+[完成版PDF](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/2021_%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E5%8F%91%E5%B1%95%E8%93%9D%E7%9A%AE%E4%B9%A6.pdf)
 
 
 ##  作業中のGoogle Docs ファイル (DeepLで雑に日本語にしたものを手分けして翻訳しました）
