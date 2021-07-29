@@ -2,7 +2,7 @@
 
 ## このサイトのURL　(2021年7月28日翻訳完成、以後はアップデートのみ)
 
-https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/edit/main/translation/2021_CNOSSbluebook/Readme.md
+https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_CNOSSbluebook
 
 [完成版PDF](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/2021_ChinaOpenSourceBlueBook_ja.pdf)
 
