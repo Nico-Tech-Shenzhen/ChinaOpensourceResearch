@@ -10,6 +10,6 @@
 
 - [2021/July/30 OSC KYOTOでの発表資料：日本語](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/Presentation/20210730_OSCKyoto_JP)
 
-日本のOpenSource People Networkが主催するオープンソースイベントOSC KYOTO[https://event.ospn.jp/osc2021-online-kyoto/]で登壇
+日本のOpenSource People Networkが主催するオープンソースイベント[OSC KYOTO](https://event.ospn.jp/osc2021-online-kyoto/)で登壇
 
 
