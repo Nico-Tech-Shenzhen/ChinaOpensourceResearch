@@ -22,7 +22,7 @@ https://www.facebook.com/groups/ntshenzhen
 - ドキュメントの翻訳と公開 [翻訳したドキュメントの一覧](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation)
 - [中国オープンソース固有名詞や翻訳用語集](https://docs.google.com/spreadsheets/d/11hnm1ORdUP6BtvaUJo2Ow70VQQ8dU6v1vRaPdzyM_oY/edit#gid=0) を整備中
 - 中国のオープンソースについて興味を持つ、コミットする人を増やすためにいろんな働きかけをする[プレゼン資料一覧](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/Presentation)
-- [2021-中国开源发展蓝皮书の翻訳プロジェクト](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_CNOSSbluebook) 2021年7月完成
+- [2021-中国开源发展蓝皮书の翻訳プロジェクト](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_CNOSSbluebook) 2021年7月完成し、[中国CSDNより正式にリリース](https://mp.weixin.qq.com/s/U0LFMNqfGnIY3tMmjWhWVQ)
 
 - Projectをたてる。「2021-中国开源发展蓝皮书 の翻訳」とか。プロジェクトは誰がどう立ててもいい
 - 翻訳の協力とか、イベント参加とかを考えてる人いたらみんなでサポートする
