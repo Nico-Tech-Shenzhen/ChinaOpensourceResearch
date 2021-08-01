@@ -6,6 +6,8 @@ https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translat
 
 [完成版PDF](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/2021_ChinaOpenSourceBlueBook_ja.pdf)
 
+[中国CSDNでの日本語版リリース文](https://mp.weixin.qq.com/s/U0LFMNqfGnIY3tMmjWhWVQ)
+
 [中国語版（オリジナル）PDF](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/2021_%E4%B8%AD%E5%9B%BD%E5%BC%80%E6%BA%90%E5%8F%91%E5%B1%95%E8%93%9D%E7%9A%AE%E4%B9%A6.pdf)
 
 
