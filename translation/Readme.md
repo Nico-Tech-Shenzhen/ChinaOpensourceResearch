@@ -1,6 +1,6 @@
 # これまで翻訳したファイルの一覧
 
-## 白書
+## 白書,レポート
 
 * [中国オープンソース発展ブルーブック 2021 中国开源发展蓝皮书 （2021年04月中国OSS推進連盟）](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/Readme.md)(2021年07月28日完成)
 
@@ -11,11 +11,11 @@
 * [中国开源年度报告2019 中国オープンソース年度報告(2020年01月開源社)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2019_Kaiyuenshe_WP.md)
 
 
-
-## 政府文書など
+## 政府や公的機関の文書、法律
 
 * [中国政府教育省/情報通信省発行　「ソフトウェア開発教育カレッジ設立ガイドライン」　教育部办公厅 工业和信息化部办公厅关于印发《特色化示范性软件学院建设指南（试行）》的通知　2020年6月05日](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/20200605_Software_Education_College_Guideline.md)
 
+*[2021年第14次五か年計画]()まだ翻訳してない
 
 ## 用語集
 
