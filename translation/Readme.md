@@ -1,5 +1,7 @@
 # これまで翻訳したファイルの一覧
 
+　なるたけ新しいものが上、増えたらディレクトリを整理する可能性あります　このページのURLはなるべく変えないようにしたい
+
 ## 白書,レポート
 
 * [中国オープンソース発展ブルーブック 2021 中国开源发展蓝皮书 （2021年04月中国OSS推進連盟）](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/Readme.md)(2021年07月28日完成)
@@ -15,7 +17,15 @@
 
 * [中国政府教育省/情報通信省発行　「ソフトウェア開発教育カレッジ設立ガイドライン」　教育部办公厅 工业和信息化部办公厅关于印发《特色化示范性软件学院建设指南（试行）》的通知　2020年6月05日](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/20200605_Software_Education_College_Guideline.md)
 
-*[2021年第14次五か年計画]()まだ翻訳してない
+*[2021年第14次五か年計画](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_14th5yearplan)　まだ翻訳してない　もとファイルだけ置いてある
+
+
+## 政府や公的機関の文書、法律
+
+* [オープンソースの四書五経] (https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/4books5classics.md) 2014年に書かれた、ちょっとジョーク文書みたいなものだけど、中国のオープンソースへの理解が伺えて面白い。2000年頃にオープンソースの概念がだいたい固まって、その後はあまり変更ないことがわかる
+
+* [開源社 概要](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/Kaiyuenshe/about.md)中国オープンソースカンファレンスCOSCON,中国オープンソース年度報告などを出している開源社の概要
+
 
 ## 用語集
 
