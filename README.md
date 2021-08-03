@@ -27,7 +27,7 @@ https://www.facebook.com/groups/ntshenzhen
 - Projectをたてる。「2021-中国开源发展蓝皮书 の翻訳」とか。プロジェクトは誰がどう立ててもいい
 - 翻訳の協力とか、イベント参加とかを考えてる人いたらみんなでサポートする
 
-- 発起人の高須の想いはここ　でも、それ以外の目的や行動があったほうがいい
+- 発起人の高須の想いは[ここ](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/memo/2021_WhyChinaOSSJP/Readme.md)　でも、それ以外の目的や行動があって多様なほうがいい
 
 
 # こういう人たちと一緒にやりたい。
