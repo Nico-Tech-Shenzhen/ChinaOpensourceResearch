@@ -27,6 +27,10 @@
 * [開源社 概要](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/Kaiyuenshe/about.md)中国オープンソースカンファレンスCOSCON,中国オープンソース年度報告などを出している開源社の概要
 
 
+* [開源社 2021年活動報告](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_kaiyuanshereport/Readme.md)開源社2021年の活動報告、メンバー名簿、予算報告、表彰など
+
+
+
 ## 用語集
 
 [中国オープンソース固有名詞や翻訳用語集](https://docs.google.com/spreadsheets/d/11hnm1ORdUP6BtvaUJo2Ow70VQQ8dU6v1vRaPdzyM_oY/edit#gid=0)
