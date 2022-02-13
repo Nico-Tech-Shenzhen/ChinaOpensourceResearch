@@ -6,7 +6,7 @@
 
 * [中国オープンソース発展ブルーブック 2021 中国开源发展蓝皮书 （2021年04月中国OSS推進連盟）](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2021_CNOSSbluebook/Readme.md)(2021年07月28日完成)
 
-* [中国开源年度报告2021 中国オープンソース年度報告  (2022年01月開源社)]作業中(https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/202１_CNOSSReport)
+*　作業中 [中国开源年度报告2021 中国オープンソース年度報告  (2022年01月開源社)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_CNOSSReport)
 
 * [中国开源年度报告2020 中国オープンソース年度報告  (2021年01月開源社)](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2020_CNOSSReport)
 
