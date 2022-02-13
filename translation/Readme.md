@@ -20,7 +20,7 @@
 *[2021年第14次五か年計画](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_14th5yearplan)　まだ翻訳してない　もとファイルだけ置いてある
 
 
-## 政府や公的機関の文書、法律
+## それ以外の文書
 
 * [オープンソースの四書五経] (https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/4books5classics.md) 2014年に書かれた、ちょっとジョーク文書みたいなものだけど、中国のオープンソースへの理解が伺えて面白い。2000年頃にオープンソースの概念がだいたい固まって、その後はあまり変更ないことがわかる
 
