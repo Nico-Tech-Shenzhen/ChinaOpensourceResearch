@@ -1,6 +1,6 @@
 # 开源社(KaiYuanShe, China Open Source Alliance)2021年活動レポート
 
-## このサイトのURL　(2021年7月28日翻訳完成、以後はアップデートのみ)
+## このサイトのURL　(2022年2月22日翻訳完成、以後はアップデートのみ)
 
 https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/tree/main/translation/2021_kaiyuanshereport
 
