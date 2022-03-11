@@ -1,6 +1,13 @@
 # 中国オープンソース研究 / ChinaOpensourceResearch
 Research about Chinese Open Source by Japanese Tech Community.
 
+# 2022年3月11日　このページは移動しました。
+
+高須もメンバーになっている中国オープンソースアライアンス 開源社 KaiYuanSheのほうにリポジトリを移動しました。今後はそちらで更新していきます。これまで同様、開源社に関わらずどのGitHubユーザでもコミットできます。
+https://github.com/kaiyuanshe/CNOSSTranslationJP
+
+以下のコンテンツは移転前の最終版を残してあります。
+
 # これは何のプロジェクトか #中国オープンソース
 中国のオープンソースムーブメントについて調査し、結果を共有する非営利のコミュニティです。
 現在のコミュニケーションは、 twitterのハッシュタグ #中国オープンソース や、Facebookのニコ技深圳コミュニティ内、中国オープンソーストピックで行われています。
