@@ -6,7 +6,7 @@
 
 [開源社からの日本語版正式リリース告知](https://mp.weixin.qq.com/s/7BH4msOL1c7x0d_X6zKKqw)
 
-[PDFファイル](https://github.com/Nico-Tech-Shenzhen/ChinaOpensourceResearch/blob/main/translation/2020_CNOSSReport/2020_ChinaOpenSourceReport-jp-v01.pdf)
+[PDFファイル](https://github.com/kaiyuanshe/CNOSSTranslationJP/blob/main/translation/2020_CNOSSReport/2020_ChinaOpenSourceReport-jp-v01.pdf)
 
 ### 日本語
 この「中国开源年度报告」は中国オープンソースコミュニティが、制度、技術、,コミュニティ、ビジネスのどの方面でも、2020年の1年間で大きく成長し、今後さらなる急成長が見込めることの証明です。2019年のものと比べ、プロジェクトはさらに多様でハイレベルになりました。そのなかにはGiteeに多く見られる組み込み系など、中国が世界に先駆ける可能性を秘めたものもあります。
